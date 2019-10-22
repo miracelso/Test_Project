@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "02"
+    "string": "03"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 33,
     "y": 63
   },
-  "glyphBounds": "{{66, 20}, {107, 69}}",
+  "glyphBounds": "{{65, 20}, {109, 69}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "02",
+  "name": "03",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
